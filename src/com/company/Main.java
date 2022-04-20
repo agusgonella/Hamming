@@ -130,6 +130,10 @@ public class Main{
 
         switch (select){
 
+            //Deberia cambiar leerArchivo porque funciona bien pero lee tambien los saltos de linea y eso
+            //en realidad no se como seria, queria preguntartelo porque por ahi vos lo entendias mas
+            //pero no lo  cambie por las dudas. Es lo unico que funciona medio dudoso jajan´t
+
             //ABRO ARCHIVO -> LEO ARCHIVO -> CADA UNO DE LOS CARACTERES EL ARCHIVO LO PONGO EN UN ARRAY LIST
             //SERIA ALGO ASI: | H | O | L | A | _ | C | O | M | O | _ | E | S | T | A | S |
             //LUEGO ESTA INFORMACION PODRIA PASARLA A BINARIO Y DEJARLA EN EL ARRAYLIST
