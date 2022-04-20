@@ -44,7 +44,7 @@ public class Main{
         return null;
     }
 
-    //Se podria tambien pasar a la lista cada bit individualmente pero nos quedarian listas enormes
+    //Se podria tambien pasar a la lista cada bit individualmente pero nos quedarian listas enormess
 
     public static ArrayList<String> aBinario(ArrayList<Character> lista)throws IOException{
         ArrayList<String> listaAuxiliar = new ArrayList<>();
